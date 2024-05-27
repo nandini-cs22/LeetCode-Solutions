@@ -1,0 +1,18 @@
+class Solution {
+    public int fib(int n) {
+        return nFibo(n);
+    }
+    private int nFibo(int n){
+
+        if(n==0)
+        return 0;
+
+        if(n==1)
+        return 1;
+
+        int a = nFibo(n-1);
+        int b = nFibo(n-2);
+
+        return a+b;
+    }
+}

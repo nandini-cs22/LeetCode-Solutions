@@ -1,0 +1,22 @@
+class Solution {
+    public int fib(int n) {
+        return nFibo(n,new HashMap<Integer,Integer>());
+    }
+    private int nFibo(int n,HashMap<Integer,Integer> memo){
+
+        if(n==0)
+        return 0;
+
+        if(n==1)
+        return 1;
+        int currentKey = n;
+        if(memo.containsKey(currentKey))
+        return memo.get(currentKey);
+
+        int a = nFibo(n-1,memo);
+        int b = nFibo(n-2,memo);
+
+        memo.put(currentKey,a+b);
+        return a+b;
+    }
+}

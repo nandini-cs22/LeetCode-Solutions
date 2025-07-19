@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

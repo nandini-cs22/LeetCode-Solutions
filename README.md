@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0507-perfect-number) |
 ## Bit Manipulation
 |  |
 | ------- |

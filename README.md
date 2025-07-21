@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0507-perfect-number) |
 ## Bit Manipulation
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

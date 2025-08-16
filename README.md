@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0958-sort-array-by-parity-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Array
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0958-sort-array-by-parity-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
+## Sorting
+|  |
+| ------- |
+| [0958-sort-array-by-parity-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->

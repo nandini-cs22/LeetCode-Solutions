@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0507-perfect-number) |
+| [1448-maximum-69-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->

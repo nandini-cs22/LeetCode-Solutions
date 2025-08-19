@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1448-maximum-69-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |

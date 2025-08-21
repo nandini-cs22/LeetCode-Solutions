@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -70,10 +71,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->

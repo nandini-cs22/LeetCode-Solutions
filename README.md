@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0958-sort-array-by-parity-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->

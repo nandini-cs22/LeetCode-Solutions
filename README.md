@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0498-diagonal-traverse](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0958-sort-array-by-parity-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->

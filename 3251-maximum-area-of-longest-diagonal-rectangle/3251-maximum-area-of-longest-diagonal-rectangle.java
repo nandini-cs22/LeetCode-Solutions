@@ -7,7 +7,7 @@ class Solution {
             int l = rect[0];
             int w = rect[1];
 
-            long diagonalSq = (long) l * l + (long) w * w; // l² + w²
+            long diagonalSq = (long) l * l + (long) w * w; 
             int area = l * w;
 
             if (diagonalSq > maxDiagonalSq) {

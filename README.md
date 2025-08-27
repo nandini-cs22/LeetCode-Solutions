@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 ## Linked List
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0506-relative-ranks) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -93,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -105,15 +110,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |

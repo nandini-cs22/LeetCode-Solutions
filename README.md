@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |

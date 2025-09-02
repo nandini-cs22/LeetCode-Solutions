@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0459-repeated-substring-pattern](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 ## String Matching

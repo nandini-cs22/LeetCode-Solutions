@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1677-matrix-diagonal-sum](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Bucket Sort
 |  |
 | ------- |

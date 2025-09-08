@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation

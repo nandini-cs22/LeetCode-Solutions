@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Array
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |

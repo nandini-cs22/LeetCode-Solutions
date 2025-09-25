@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0120-triangle) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |

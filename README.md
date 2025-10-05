@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

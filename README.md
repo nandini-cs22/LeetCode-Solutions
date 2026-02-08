@@ -200,13 +200,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nandini-cs22/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
